@@ -27,5 +27,6 @@ Automatically detects critical issues, security threats, and provides actionable
 
 4. Run the app
    streamlit run app.py
-## Demo
-![AI Log Analyzer](screenshots/demo.png)
+## 📊 Demo
+![AI Log Analyzer](screenshots/demo1.png)
+![AI Analysis Result](screenshots/demo2.png)
