@@ -1,0 +1,10 @@
+2024-01-15 08:23:11 INFO Server started successfully
+2024-01-15 08:23:15 INFO Database connection established
+2024-01-15 08:25:03 WARNING High memory usage detected: 85%
+2024-01-15 08:26:45 ERROR Failed to authenticate user: invalid credentials
+2024-01-15 08:27:12 ERROR Database query timeout after 30s
+2024-01-15 08:28:00 CRITICAL System disk space critically low: 2% remaining
+2024-01-15 08:29:33 ERROR Connection refused: service unavailable
+2024-01-15 08:30:01 INFO Backup process started
+2024-01-15 08:31:45 WARNING SSL certificate expires in 7 days
+2024-01-15 08:32:10 CRITICAL Unauthorized access attempt detected from IP 192.168.1.105
