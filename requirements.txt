@@ -3,4 +3,3 @@ langchain-google-genai
 langchain-core
 streamlit
 python-dotenv
-google-generativeai
